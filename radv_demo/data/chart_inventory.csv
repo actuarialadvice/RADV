@@ -1,0 +1,7 @@
+member_id,chart_id,provider,npi,start_dos,end_dos,pdf_path,radv_diags,llm_scanned,coded_status,dq_flag
+M0001,CHART01,Dr. Amy Jordan,6193990916,2025-03-29,2025-03-29,/Users/dalecap/projects/radv_demo/pdfs/M0001_CHART01.pdf,J441,True,coded,
+M0001,CHART02,Dr. Amy Jordan,6193990916,2025-02-15,2025-02-15,/Users/dalecap/projects/radv_demo/pdfs/M0001_CHART02.pdf,J441,True,Not coded,
+M0002,CHART01,Dr. Brian Lee,5593019987,2025-01-20,2025-01-20,/Users/dalecap/projects/radv_demo/pdfs/M0002_CHART01.pdf,E119,True,Not coded,
+M0002,CHART02,Dr. Brian Lee,5593019987,2025-02-18,2025-02-18,/Users/dalecap/projects/radv_demo/pdfs/M0002_CHART02.pdf,E119,True,Not coded,
+M0003,CHART01,Dr. Carol Smith,4028391112,2025-01-05,2025-01-07,/Users/dalecap/projects/radv_demo/pdfs/M0003_CHART01.pdf,B20,True,Reviewed,
+M0003,CHART02,Dr. Carol Smith,4028391112,2025-03-01,2025-03-01,/Users/dalecap/projects/radv_demo/pdfs/M0003_CHART02.pdf,B20,True,Not coded,

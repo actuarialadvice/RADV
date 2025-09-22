@@ -1,0 +1,11 @@
+member_id,chart_id,icd10,model,hcc,hcc_label,primary_coder_initials,primary_decision,primary_notes,primary_timestamp,primary_no_evidence,secondary_coder_initials,secondary_decision,secondary_notes,secondary_timestamp,final_coder_initials,final_decision,final_notes,final_timestamp,dos,npi,suspect_offsets,evidence_found,confidence_level,evidence_pages,dos_start,dos_end,user_added_findings
+M0001,CHART01,J441,v24,111,Chronic Obstructive Pulmonary Disease,PC,,,2025-09-19T18:01:24,True,,,,,,,,,2025-03-29,6193990916,,False,High,,2025-03-29,2025-03-29,
+M0001,CHART01,J441,v28,280,Chronic Obstructive Pulmonary Disease,PC,,,2025-09-19T18:01:24,True,,,,,,,,,2025-03-29,6193990916,,False,,,2025-03-29,2025-03-29,
+M0001,CHART01,J441,both,V24:111/V28:280,Chronic Obstructive Pulmonary Disease,PC,validated,,2025-09-21T19:55:34,False,,,,,,,,,2025-03-29,6193990916,,True,,,2025-03-29,2025-03-29,
+M0001,CHART01,J449,both,V24:/V28:,,PC,validated,LLM term: COPD. LLM term: COPD. LLM term: COPD. ,2025-09-21T19:55:51,False,,,,,,,,,2025-03-29,6193990916,,True,,,2025-03-29,2025-03-29,
+M0001,CHART01,,both,V24:11/V28:,Manual HCC,PC,validated,,2025-09-20T22:48:06,False,,,,,,,,,2025-03-29,6193990916,,True,,,2025-03-29,2025-03-29,
+M0001,CHART01,,both,V24:11/V28:,Manual HCC,PC,validated,,2025-09-20T22:48:08,False,,,,,,,,,2025-03-29,6193990916,,True,,,2025-03-29,2025-03-29,
+M0001,CHART01,J40,both,V24:/V28:,,PC,validated,,2025-09-21T19:55:41,False,,,,,,,,,2025-03-29,6193990916,,True,,,2025-03-29,2025-03-29,
+M0001,CHART01,J439,both,V24:/V28:,,PC,no_evidence,,2025-09-21T19:55:56,True,,,,,,,,,2025-03-29,6193990916,,False,,,2025-03-29,2025-03-29,
+M0003,CHART01,B20,both,V24:1/V28:1,HIV/AIDS,PC,,,2025-09-21T21:40:42,True,,,,,,,,,2025-01-05 - 2025-01-07,4028391112,,False,,,2025-01-05,2025-01-07,
+M0003,CHART01,J439,both,V24:/V28:,,PC,,,2025-09-21T21:40:42,True,,,,,,,,,2025-01-05 - 2025-01-07,4028391112,,False,,,2025-01-05,2025-01-07,

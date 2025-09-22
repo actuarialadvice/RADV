@@ -1,0 +1,61 @@
+{
+  "J44.1": {
+    "primary_terms": [
+      "COPD",
+      "exacerbation",
+      "J44.1",
+      "wheezing",
+      "dyspnea",
+      "prednisone",
+      "tiotropium",
+      "albuterol"
+    ],
+    "offset_terms": [
+      "pneumonia",
+      "bronchitis",
+      "J44.0",
+      "tobacco",
+      "smoker",
+      "emphysema",
+      "PFT",
+      "FEV1/FVC"
+    ]
+  },
+  "E11.9": {
+    "primary_terms": [
+      "Type 2 diabetes",
+      "E11.9",
+      "A1c",
+      "metformin",
+      "diet",
+      "exercise"
+    ],
+    "offset_terms": [
+      "neuropathy",
+      "retinopathy",
+      "nephropathy",
+      "CKD",
+      "insulin",
+      "hyperglycemia"
+    ]
+  },
+  "B20": {
+    "primary_terms": [
+      "HIV",
+      "B20",
+      "antiretroviral",
+      "ART",
+      "viral load",
+      "CD4",
+      "tenofovir",
+      "emtricitabine",
+      "dolutegravir"
+    ],
+    "offset_terms": [
+      "opportunistic infection",
+      "pneumocystis",
+      "toxoplasmosis",
+      "candidiasis"
+    ]
+  }
+}
