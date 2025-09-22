@@ -1,0 +1,4 @@
+member_id,icd10_submitted,dx_summary,models_to_check
+M0001,J441,COPD with exacerbation,"v24,v28"
+M0002,E119,Type 2 DM without complications,"v24,v28"
+M0003,B20,HIV disease,"v24,v28"
