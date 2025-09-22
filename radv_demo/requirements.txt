@@ -3,5 +3,4 @@ pandas==2.3.2
 streamlit-aggrid==0.3.4.post3
 PyPDF2==3.0.1
 PyMuPDF==1.26.4
-altair==5.4.1
 google-cloud-bigquery==3.38.0
