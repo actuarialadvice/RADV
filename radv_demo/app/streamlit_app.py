@@ -727,7 +727,7 @@ with tab_inventory:
         "start_dos":   {"width": 120},
         "end_dos":     {"width": 120},
         "llm_scanned": {"width": 120},
-        "coded_status":{"width": 130},
+        #"coded_status":{"width": 130},
         "dq_flag":     {"width": 220, "cellClass": "left-text", "header_name": "DQ warnings"},
     }
     render_grid(view[cols] if not view.empty else view, col_defs=col_defs, height=420, row_height=34, download_name="chart_inventory", grid_key="grid_inventory")
