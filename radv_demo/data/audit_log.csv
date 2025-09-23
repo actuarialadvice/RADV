@@ -10,3 +10,5 @@ timestamp,actor,action,member_id,chart_id,rows_affected
 2025-09-21T21:40:31,PC,save_decisions,M0003,CHART01,3
 2025-09-21T21:40:35,PC,save_decisions,M0003,CHART01,3
 2025-09-21T21:40:42,PC,save_decisions,M0003,CHART01,3
+2025-09-22T22:17:26,PC,save_decisions,M0001,CHART02,1
+2025-09-22T22:17:38,PC,save_decisions,M0001,CHART02,1
